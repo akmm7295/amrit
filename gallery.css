@@ -1,0 +1,45 @@
+body {
+  padding-top: 70px;
+}
+
+
+
+
+* {
+  font-size: 1.2rem;
+  font-family: 'Roboto', 'Helvetica', sans-serif;
+}
+
+
+
+#spacer {
+  height: 0px;
+}
+
+body {
+  background: linear-gradient(white, gray);
+}
+
+
+
+.jumbotron {
+  color: red;
+  background-color: skyblue;
+  border-radius: 10px;
+ 
+  
+
+}
+
+.navbar-inverse {
+  color: #2c3e50;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color: white;
+}
+
+.navbar-inverse .navbar-brand {
+  color: yellowgreen;
+  background-color: black
+}
